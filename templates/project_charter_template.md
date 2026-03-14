@@ -12,8 +12,8 @@ The charter is separate from the Team Charter. The Team Charter covers how you w
 
 ## Team Information
 
-- Team name:
-- Industry context:
+- Team name: Team-C
+- Industry context: 
 - Members:
   - Nikita Karpovi Chkhirodze
   - Givi Jalagonia
