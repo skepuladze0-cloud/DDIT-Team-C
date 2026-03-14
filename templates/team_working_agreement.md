@@ -16,10 +16,10 @@ Teams that arrive at Weekend 2 without Sprint 1 deliverables lose the most valua
 
 ## Team Information
 
-- Team name:
+- Team name: Team C
 - Industry context:
-- Sprint 1 owner (Recorder role for this sprint):
-- Members:
+- Sprint 1 owner (Recorder role for this sprint): Lizi Mshvenieradze
+- Members: Nikita Karpovi Ckhirodze, Givi Jalagonia, Saba Kepuladze.
 
 ---
 
