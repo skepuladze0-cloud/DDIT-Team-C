@@ -8,7 +8,7 @@ Write the central strategic question in one sentence.
 - How should [Georgia logistics player / policymaker] respond to [trade corridor shifts / technology / regulation / geopolitics] in order to [goal]?
 - How can Georgia strengthen its role as a transit and logistics hub between Europe and Asia while maintaining [cost / reliability / resilience]?
 - 
-- How to inscre reliability wihtout increase costs?
+- **How to increase reliability wihtout increase costs?**
 
 **Your draft**
 - Core question:
