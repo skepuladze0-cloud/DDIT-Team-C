@@ -1,95 +1,133 @@
-Issue Tree Template (Customized: Logistics sector, Georgia)
-Purpose
-Use this issue tree to break down a logistics-sector strategic problem in Georgia (country) into MECE drivers, then turn those drivers into testable hypotheses and an evidence plan. It’s for structuring the problem, not proposing solutions.
+# Issue Tree Template — Georgia (Country) Logistics Sector
 
-Part 1. Core question
+## Purpose
+
+Issue trees help teams decompose a large strategic problem into smaller, analyzable components. A strong issue tree is MECE: mutually exclusive and collectively exhaustive.
+
+## Instructions
+
+Use this template after your team has agreed on a Georgia logistics context (e.g., port operator, rail freight, trucking, freight forwarder, 3PL/warehouse, customs/border agency) and a broad strategic challenge. Do not jump to recommendations. First structure the problem.
+
+---
+
+## Part 1. Core question
+
 Write the central strategic question in one sentence.
 
-Format suggestion (Georgia logistics) How should [client] adapt its logistics/transport/warehousing model in Georgia to respond to [disruption or constraint] in order to [goal]?
+**Format suggestions (pick one)**
+- How should [Georgia logistics player / policymaker] respond to [trade corridor shifts / technology / regulation / geopolitics] in order to [goal]?
+- How can Georgia strengthen its role as a transit and logistics hub between Europe and Asia while maintaining [cost / reliability / resilience]?
 
-Your draft
+**Your draft**
+- Core question:
+- Why this question matters (for Georgia specifically):
 
-Core question:
-Why this question matters (Georgia-specific): corridor role (Europe–Caucasus–Central Asia), border dependencies, infrastructure capacity, regulatory/customs friction, service reliability, cost-to-serve.
-Part 2. First-level branches
-Break the problem into three to five top-level drivers. Use only drivers that explain outcomes in Georgian logistics (cost, speed, reliability, compliance, growth).
+---
 
-Branch 1
+## Part 2. First-level branches (Georgia-specific)
 
-Label: Demand, lanes, and customer mix in Georgia
-Why it belongs: Volume, lane structure, and service expectations determine network design, asset needs, and profitability.
-Branch 2
+Break the problem into four to five top-level drivers.
 
-Label: Network capacity and infrastructure constraints
-Why it belongs: Ports, roads, rail, terminals, and warehousing capacity/quality set hard limits on throughput and lead times.
-Branch 3
+**Branch 1**
+- Label: Demand & corridor dynamics (volumes, route choices)
+- Why it belongs: Georgia’s logistics outcomes depend heavily on whether shippers choose Georgia-linked corridors vs alternatives.
 
-Label: Cross-border, customs, and compliance friction
-Why it belongs: In Georgia, performance is often won or lost at borders/clearance and on documentation quality.
-Branch 4
+**Branch 2**
+- Label: Infrastructure & capacity (ports, rail, roads, terminals, warehousing)
+- Why it belongs: Physical bottlenecks and throughput limits can cap growth regardless of demand.
 
-Label: Cost and unit economics under local conditions
-Why it belongs: Fuel, labor, FX exposure, empty miles, backhauls, and maintenance realities drive margin more than “strategy slides”.
-Branch 5 (optional)
+**Branch 3**
+- Label: Cost, service quality & reliability (end-to-end)
+- Why it belongs: Shippers choose corridors based on total landed cost and predictability, not only distance.
 
-Label: Competitive landscape and capability gap
-Why it belongs: Strategy has to reflect what local competitors, global forwarders, and in-house shipper fleets can already do—and what you can’t.
-Part 3. Second-level branches
+**Branch 4**
+- Label: Policy, regulation & border performance
+- Why it belongs: Customs, permits, inspections, and enforcement define dwell time and uncertainty—often the biggest “hidden cost.”
+
+**Branch 5 (optional)**
+- Label: Competitive landscape & ecosystem capability
+- Why it belongs: Performance depends on how well ports/rail/trucking/forwarders/banks/insurers/IT providers coordinate—and on rival hubs’ moves.
+
+---
+
+## Part 3. Second-level branches
+
 Now break each first-level branch into sub-drivers.
 
-Your breakdown
-Branch 1 sub-drivers (Demand, lanes, customer mix)
+### Your breakdown
 
-A: Shipment profile: domestic vs cross-border; FTL/LTL; parcel vs freight; reefer/hazmat/oversize share
-B: Lane concentration and seasonality: corridor flows, peak periods, volatility risk
-C: Service requirements: OTIF targets, delivery windows, traceability requirements, claims tolerance
-Branch 2 sub-drivers (Network capacity & infrastructure)
+**Branch 1 sub-drivers (Demand & corridor dynamics)**
+- A: Trade mix & growth: import/export vs transit share; containerized vs bulk; key commodities.
+- B: Corridor substitution: attractiveness of Georgia routes vs other regional corridors (time/cost/risk).
+- C: Customer segments: shipping lines, freight forwarders, large shippers; their decision criteria and contracting structures.
 
-A: Port/terminal throughput and dwell time; appointment systems; handling constraints
-B: Road and rail reliability: transit time variance, bottlenecks, weather/terrain impacts
-C: Warehousing readiness: grade-A availability, cold chain capacity, yard space, power reliability, WMS maturity
-Branch 3 sub-drivers (Cross-border, customs, compliance)
+**Branch 2 sub-drivers (Infrastructure & capacity)**
+- A: Ports & terminals: berth capacity, crane productivity, yard capacity, hinterland connections, schedule reliability.
+- B: Rail freight: capacity, interoperability, last-mile to terminals/industrial zones, fleet availability.
+- C: Road/trucking & warehousing: road quality/constraints, truck availability, cold chain and value-added logistics capacity.
 
-A: Clearance time drivers: documentation errors, inspection rates, broker performance, pre-clearance options
-B: Trade and regulatory requirements: licensing, sanitary/phytosanitary where relevant, transport permits
-C: Risk and disruption exposure: border closures/queues, route restrictions, sanctions/controlled goods screening (if applicable to lanes)
-Branch 4 sub-drivers (Cost & unit economics)
+**Branch 3 sub-drivers (Cost, service quality & reliability)**
+- A: End-to-end transit time and variability (variance matters as much as averages).
+- B: Cost stack: port fees, rail tariffs, trucking rates, handling, storage/demurrage, informal costs.
+- C: Disruption resilience: weather, strikes, equipment shortages, congestion, security incidents; contingency routing and buffers.
 
-A: Cost breakdown by leg: linehaul, last-mile, handling, storage, demurrage/detention, brokerage
-B: Asset utilization: empty return rates, load factors, backhaul availability, driver hours, maintenance downtime
-C: Pricing power and contract structure: indexation (fuel/FX), minimums, accessorial capture, payment terms/DSO
-Branch 5 sub-drivers (Competition & capability)
+**Branch 4 sub-drivers (Policy, regulation & border performance)**
+- A: Customs/clearance: documentation burden, risk management selectivity, inspection rates, working hours.
+- B: Cross-border coordination: data exchange and alignment with neighboring countries; corridor governance.
+- C: Compliance and standards: safety, axle/load rules, ADR dangerous goods, sanitary/phytosanitary where relevant.
 
-A: Competitor segmentation: local carriers, 3PLs, forwarders, integrators; who dominates which lanes/services
-B: Differentiators that matter locally: reliability, clearance expertise, capacity guarantees, cold chain integrity, visibility
-C: Internal capability gaps: TMS/WMS, planning, quality management, claims handling, compliance, sales discipline
-Part 4. Hypothesis extraction
-Convert each major branch into a testable hypothesis (something you can prove/disprove with evidence).
+**Branch 5 sub-drivers (Competitive landscape & ecosystem capability)**
+- A: Market structure: concentration, vertical integration, bargaining power of shipping lines/forwarders.
+- B: Digital interoperability: EDI adoption, track-and-trace, single-window, paperless workflows across players.
+- C: Talent and operating model: logistics management depth, maintenance culture, KPI discipline, dispute resolution.
 
-Hypothesis 1 (Demand)
+---
 
-Statement: A small number of lanes/services (e.g., corridor + selected domestic distribution) drive most profit potential, and the current offering is misaligned with their service levels.
-Why it seems plausible: Logistics markets often have highly skewed lane economics; Georgia’s corridor role can amplify that skew.
-Hypothesis 2 (Infrastructure)
+## Part 4. Hypothesis extraction
 
-Statement: Service unreliability is primarily caused by specific nodes (port/terminal, border point, warehouse interface) rather than “general market conditions”.
-Why it seems plausible: Variance clusters at handoff points; fixing nodes beats broad cost cutting.
-Hypothesis 3 (Customs/compliance)
+Convert each major branch into a testable hypothesis. Keep them falsifiable.
 
-Statement: Clearance delays are driven more by process quality (documents, broker SLAs, pre-alert discipline) than by unavoidable regulation, and can be materially reduced.
-Why it seems plausible: Many delays are self-inflicted; measurable via exception coding.
-Hypothesis 4 (Unit economics)
+**Hypothesis 1 (Demand & corridor dynamics)**
+- Statement: Georgia’s corridor volumes are primarily limited by shipper risk perception and time variability, not by average cost.
+- Why it seems plausible:
 
-Statement: Margin leakage is dominated by utilization losses and accessorial under-capture (waiting, demurrage, empty miles), not base transport pricing.
-Why it seems plausible: In emerging/mixed networks, “hidden” costs frequently exceed pricing deltas.
-Part 5. Evidence plan
-Hypothesis	What evidence is needed	Where will we look	Who owns it
-H1	Profit by lane/service/customer; win/loss reasons; service SLA requirements	TMS exports, finance P&L by customer, CRM, customer interviews	
-H2	Transit-time distribution by node; dwell times; exception codes; capacity constraints by facility	GPS/telematics, terminal logs, warehouse check-in/out, route performance dashboards	
-H3	Clearance time breakdown; document error rate; broker SLA performance; inspection/hold reasons	Customs broker reports, internal docs audit, shipment files sampling, ops interviews	
-H4	Empty miles, load factor, wait time, accessorial billed vs incurred, DSO and bad debt	Dispatch data, fuel cards, invoices vs contracts, AR aging, claim logs	
-Quality check
-Are any branches overlapping (e.g., “cost” vs “infrastructure”)? If yes, separate “what drives performance” from “where we pay for it”.
-Does each branch link directly to the core question and Georgia context?
-Are hypotheses falsifiable with data you can actually obtain in 1–2 weeks?
-Two clarifications so I don’t tailor this to the wrong “logistics”: what’s the client type (3PL/forwarder, trucking carrier, port/terminal operator, retailer/manufacturer in-house logistics) and is the core focus domestic distribution, cross-border/corridor, or both?
+**Hypothesis 2 (Infrastructure & capacity)**
+- Statement: One or two specific physical bottlenecks (e.g., terminal throughput or rail/road last-mile) are the binding constraints on scalable growth.
+- Why it seems plausible:
+
+**Hypothesis 3 (Cost, service quality & reliability)**
+- Statement: The biggest competitiveness gap vs alternative corridors is in reliability (variance + dwell) rather than nominal price.
+- Why it seems plausible:
+
+**Hypothesis 4 (Policy, regulation & border performance)**
+- Statement: Border/clearance cycle time and documentation complexity account for a disproportionate share of corridor “friction costs.”
+- Why it seems plausible:
+
+**Hypothesis 5 (optional: ecosystem capability)**
+- Statement: Coordination failures (handoffs between port–rail–trucking–forwarders) cause more delay than any single operator’s internal performance.
+- Why it seems plausible:
+
+---
+
+## Part 5. Evidence plan
+
+For each hypothesis, list the evidence required.
+
+| Hypothesis | What evidence is needed | Where will we look | Who owns it |
+|---|---|---|---|
+| H1 | Corridor volumes by lane; customer decision criteria; volatility drivers; contract terms | Forwarder interviews; shipper surveys; operator sales data |  |
+| H2 | Capacity utilization; queue times; throughput KPIs; asset availability | Port/rail ops KPIs; satellite/queuing proxies; field observations |  |
+| H3 | End-to-end time distributions; cost stack comparisons; reliability benchmarks | Shipment tracking samples; tariff tables; invoices; benchmarking studies |  |
+| H4 | Clearance times; inspection rates; document counts; rework/exception rates | Customs data; broker logs; time-and-motion at border points |  |
+| H5 | Handoff timestamps; dispute/claim frequency; data-sharing gaps | Multi-party tracking; process mapping workshops |  |
+
+---
+
+## Quality check (Georgia logistics)
+
+Before finalizing, ask:
+
+- Are branches overlapping (e.g., “border delays” showing up under both cost and regulation)? If yes, decide where it belongs and keep it only once.
+- Did we structure the problem rather than the solution?
+- Does each branch connect to the core Georgia logistics question (competitiveness, resilience, growth, or service quality)?
+- Can each hypothesis be tested with evidence available in Georgia (operators, customs, customers, public datasets)?
