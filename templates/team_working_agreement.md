@@ -113,11 +113,11 @@ Start from the disruption diagnostic. The options should respond to the strategi
 
 | Meeting | Date | Time | Duration | Purpose |
 |---|---|---|---|---|
-| Sprint kickoff | March 15 (Sunday evening) | | 30 min | Divide hypothesis and research assignments; confirm owners and dates |
-| Week 1 check-in | March 22 | | 45 min | Review H1 and H2 findings; surface blockers; adjust if needed |
-| Working session | March 27–29 | | 90 min | Integrate competitive landscape updates; discuss preliminary options |
-| Week 2 check-in | March 31 | | 45 min | Review H3, H4, H5 findings; draft three strategic options |
-| Pre-weekend review | April 2 | | 60 min | Final review of all deliverables; confirm files uploaded and named correctly |
+| Sprint kickoff | March 15 (Sunday evening) | 21:00 | 30 min | Divide hypothesis and research assignments; confirm owners and dates |
+| Week 1 check-in | March 22 | 21:00 | 45 min | Review H1 and H2 findings; surface blockers; adjust if needed |
+| Working session | March 27–29 | 21:00 | 90 min | Integrate competitive landscape updates; discuss preliminary options |
+| Week 2 check-in | March 31 | 21:00 | 45 min | Review H3, H4, H5 findings; draft three strategic options |
+| Pre-weekend review | April 2 | 21:00 | 60 min | Final review of all deliverables; confirm files uploaded and named correctly |
 
 ---
 
