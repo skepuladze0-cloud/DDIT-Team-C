@@ -63,11 +63,12 @@ Prioritize gig economy partnerships for scalability. Hedging fuel costs via long
 (1) buy online and pickup from the store. Mostly the way the customer can do the job by self.
 
 **Why would customers switch?**  
-For the customer side, there will be less transportation cost and duration that is needed to get the product. There won't be to wait so many times for the currier to delive[...]
+For the customer side, there will be less transportation cost and duration that is needed to get the product. There won't be to wait so many times for the currier to deliver.
 
 **Force rating: High**
 
-**Strategic implication:** the companies add more pickup warehouses in the city. By that it can decrease delivery and pickup time. Also, it will be better if there is partnership with companies that have [...]
+**Strategic implication:**
+Companies add more pickup warehouses in the city. By that it can decrease delivery and pickup time. Also, it will be better if there is partnership with companies that have lockets. And customers will have their own lockets.  
 
 ---
 
