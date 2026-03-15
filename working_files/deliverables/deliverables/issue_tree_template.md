@@ -12,19 +12,15 @@ Use this template after your team has agreed on a client context and a broad str
 
 ## Part 1. Core question
 
-**Why are Georgian courier and parcel-delivery companies getting fewer e‑commerce shipments when foreign online marketplaces expand into Georgia? **
-
 _**Format suggestion**
 
 How should [client or focal company] respond to [digital disruption force] in order to [strategic goal]?_
 
-**Your draft**
-- Core question:
-- Why this question matters:
 
----
+**- Core Question**
+**Why are Georgian courier and parcel-delivery companies getting fewer e‑commerce shipments when foreign online marketplaces expand into Georgia?**
 
-- Why this question matters:
+**- Why this question matters:**
 Platform-led logistics (e.g., Ozon/Wildberries/Temu and their partners) can redirect delivery economics, service standards and data/control away from domestic carriers affecting local margins, employment, service coverage and the competitiveness of Georgian SMEs selling online. 
 
 ## Part 2. First-level branches
