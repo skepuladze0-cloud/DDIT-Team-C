@@ -2,6 +2,8 @@
 
 ## Part 1. Porter Five Forces
 
+The transportation and storage sector witnessed 5.1% GDP growth in 2023. Road cargo continues to lead in volume, with a 14% growth in the first nine months of 2023.
+
 ### Threat of new entrants
 **Barriers to entry - Moderate to High**
 
@@ -107,7 +109,7 @@ Leaders should pursue acquisitions of small locals for network density, lock in 
 Final delivery. High costs from traffic, low density outside Tbilisi, COD risks, and gig labor churn make it margin-eroding amid buyer demands for speed.
 
 **Which stage appears most defensible?**  
-Warehouse/pick-pack. Opportunity of reducing costs via scaling up, plus owning your inventory tech that locks in customers
+Warehouse/pick-pack. Opportunity of reducing costs via scaling up, plus owning your inventory tech that locks in customers. 
 
 **Where could a platform insert itself?**  
 Order processing. Aggregator apps can connect fragmented riders/e-tailers (like Uber for delivery), or warehouse hubs for shared pick-pack to cut costs in dispersed demand.
