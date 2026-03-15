@@ -94,6 +94,14 @@ Leaders should pursue acquisitions of small locals for network density, lock in 
 
 ### Value chain Map
 
+| Stage | Main activities | Main actors | Profit concentration | Digital pressure points |
+|---|---|---|---|---|
+| Order Processing | Taking order, payment handling | E‑commerce merchants, marketplaces, social sellers | Medium to High | Order intake apps |
+| Warehouse/Pick-Pack | Picking, packing, micro-warehousing | 3PL | Low (commoditized) | automated picking, tracking information sync |
+| Line-Haul to Hub | Short-haul to urban hubs/distribution pts | 3PL | Low (commoditized) | route optimization, tracking information sync |
+| Last mile delivery | Route planning, Doorstep drop-off, POD verification | Riders/drivers | Medium to High (depends on delivery area) | Correct ETA, routing efficiency, customer notifications |
+| Reverse Logistics | Returns handling, refunds | Same as last mile delivery or any other | Low | Complexity, poor visibility, high handling cost |
+
 ### Value chain interpretation
 **Which stage appears most vulnerable?**  
 Final delivery. High costs from traffic, low density outside Tbilisi, COD risks, and gig labor churn make it margin-eroding amid buyer demands for speed.
