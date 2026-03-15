@@ -5,12 +5,13 @@
 ### Threat of new entrants
 **Barriers to entry - Moderate to High**
 
-High fixed costs, regulatory hurdles, and a shortage of qualified operators create significant challenges for newcomers. Companies require scale to become profitable. Network of reliable partners is e[...]
+High fixed costs, regulatory hurdles, and a shortage of qualified operators create significant challenges for newcomers. Companies require scale to become profitable. Network of reliable partners is essential for reliable service.  
 
 **Sources of advantage for current leaders:**
-established cross-border network of partners.  
-Achieved economies of scale  
-Likely new entrants:  
+established cross-border network of partners. Achieved economies of scale.
+
+Likely new entrants: 
+Retailers that might decide to integrate vertically and set up their own logistics hubs. 
 
 **Force rating: Medium**  
 Small-scale entry is easy and price competition exists; it’s not “Low” because true competitive entry at scale is constrained.
