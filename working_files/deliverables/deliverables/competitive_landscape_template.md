@@ -11,7 +11,7 @@ High fixed costs, regulatory hurdles, and a shortage of qualified operators crea
 
 **Sources of advantage for current leaders:**
 established cross-border network of partners. Achieved economies of scale.
-
+https://www.investor.ge/2025/10/23/investment-news-34/
 Likely new entrants: 
 Retailers that might decide to integrate vertically and set up their own logistics hubs. 
 
