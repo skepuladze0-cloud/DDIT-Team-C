@@ -12,7 +12,7 @@ Use it after completing the broader competitive landscape template.
 
 | Competitor | Target customer | Business model | Core capability | Strategic advantage | Main weakness |
 |---|---|---|---|---|---|
-|  |  |  |  |  |  |
+| A | B |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
