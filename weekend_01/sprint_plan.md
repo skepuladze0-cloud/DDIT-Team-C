@@ -23,7 +23,7 @@ Teams that arrive at Weekend 2 without Sprint 1 deliverables lose the most valua
 - Lizi Mshvenieradze
 - Nikita Karpovi Ckhirodze
 - Givi Jalagonia
-- Saba Kepuladze.
+- Saba Kepuladze
 
 ---
 
@@ -33,10 +33,10 @@ From your hypothesis log v1, identify the five hypotheses you will test before W
 
 | ID | Hypothesis Statement | Evidence Needed | Primary Source | Owner | Due Date |
 |---|---|---|---|---|---|
-| H1 | | | | | March 22 |
-| H2 | | | | | March 22 |
-| H3 | | | | | March 29 |
-| H4 | | | | | March 29 |
+| H1 | | | | Lizi Mshvenieradze| March 22 |
+| H2 | | | | Nikita Karpovi Ckhirodze| March 22 |
+| H3 | | | | Givi Jalagonia| March 29 |
+| H4 | | | | Saba Kepuladze| March 29 |
 | H5 | | | | | April 2 |
 
 ### Source guidance for this sprint
