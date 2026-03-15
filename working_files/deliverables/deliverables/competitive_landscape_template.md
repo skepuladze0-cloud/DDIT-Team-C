@@ -77,7 +77,7 @@ Companies add more pickup warehouses in the city. By that it can decrease delive
 Over 25 companies including: Oneway, Onex, Inex, USA2GEORGIA.  Fragmented mix of SaaS logistics, 3PLs, and independent couriers creates intense local clutter
 
 **Basis of competition:**  
-Core battles focus on delivery speed (same-day guarantees), cost efficiency, app-based tracking and coverage in congested Tbilisi/Batumi areas. Since competing in price can be a losing game delivery comapnies are trying to shift focus on other important asepects, for example Onway package traking system increases visibility for customers, while Onex has added smart services that allow customers to remotely inspect packages before they are sent for delivery. According to the surveys by amazon showed that customers are willing to pay surcharges for same-day options—up to 53% and the trend is simmilar is Georgia. Compan
+Core battles focus on delivery speed (same-day guarantees), cost efficiency, app-based tracking and coverage in congested Tbilisi/Batumi areas. Since competing in price can be a losing game in lonterm delivery comapnies are trying to shift focus on other important asepects, for example Onway package traking system increases visibility for customers, while Onex has added smart services that allow customers to remotely inspect packages before they are sent for delivery. According to the surveys by amazon showed that customers are willing to pay surcharges for same-day options—up to 53% and the trend is simmilar is Georgia. Compan
 https://www.cnbc.com/2024/09/17/how-amazon-is-using-generative-ai-to-drive-more-same-day-deliveries.html
 
 **Price intensity: High**  
