@@ -12,7 +12,7 @@ Use this template after your team has agreed on a client context and a broad str
 
 ## Part 1. Core question
 
-**“Why are Georgian courier and parcel-delivery companies getting fewer e‑commerce shipments when foreign online marketplaces expand into Georgia?” **
+**Why are Georgian courier and parcel-delivery companies getting fewer e‑commerce shipments when foreign online marketplaces expand into Georgia? **
 
 _**Format suggestion**
 
