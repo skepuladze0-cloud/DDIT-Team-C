@@ -12,7 +12,7 @@ Use this template after your team has agreed on a client context and a broad str
 
 ## Part 1. Core question
 
-_**Format suggestion**
+**Format suggestion**
 
 How should [client or focal company] respond to [digital disruption force] in order to [strategic goal]?_
 
