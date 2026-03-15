@@ -10,7 +10,7 @@ A business case with one scenario is not a business case. It is a wish list. A b
 
 ## Team Information
 
-- Team name:
+- Team name: Team C
 - Industry context:
 - Members:
 - Date completed:
