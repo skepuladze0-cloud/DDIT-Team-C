@@ -115,6 +115,8 @@ Start from the disruption diagnostic. The options should respond to the strategi
 
 ## Meeting Schedule
 
+Working on the assigned tasks indipendently 
+
 | Meeting | Date | Time | Duration | Purpose |
 |---|---|---|---|---|
 | Sprint kickoff | March 15 (Sunday evening) | | 30 min | Divide hypothesis and research assignments; confirm owners and dates |
