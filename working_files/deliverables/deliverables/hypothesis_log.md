@@ -16,7 +16,7 @@ Update this log after each research session or team meeting. Treat it as a livin
 
 | ID | Hypothesis | Evidence needed | Evidence collected | Status | Revision notes |
 |---|---|---|---|---|---|
-| H1 |  |  |  | Active |  |
+| H1 | It is cheaper & simpler to set up your own logistics in Gerogia compared to conttracting local company |  |  | Active |  |
 | H2 |  |  |  | Active |  |
 | H3 |  |  |  | Active |  |
 | H4 |  |  |  | Active |  |
