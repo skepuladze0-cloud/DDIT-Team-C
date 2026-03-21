@@ -29,7 +29,7 @@ From your hypothesis log v1, identify the five hypotheses you will test before W
 
 | ID | Hypothesis Statement | Evidence Needed | Primary Source | Owner | Due Date |
 |---|---|---|---|---|---|
-| H1 | | | | | March 22 |
+| H1 | | | | Nikita Karpovi Chkhirodze | March 22 |
 | H2 | | | | | March 22 |
 | H3 | | | | | March 29 |
 | H4 | | | | | March 29 |
