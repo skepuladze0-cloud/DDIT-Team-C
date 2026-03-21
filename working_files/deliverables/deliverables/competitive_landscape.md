@@ -141,7 +141,7 @@ Decrease the stress or anxiety for the customer and show that the company thinks
 
 ### Alternative solutions
 List both direct and indirect alternatives.  
-Direct alternatives: Local transportation companies (Georgian Post, Traking.ge), Glovo, Wolt, Randex  
+Direct alternatives: Local transportation companies (Georgian Post, Trackings.GE), Glovo, Wolt, Randex  
 Indirect alternatives: Customer goes to the store and pickup the product.
 
 ### Interpretation
