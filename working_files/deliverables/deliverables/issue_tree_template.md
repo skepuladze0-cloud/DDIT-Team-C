@@ -49,9 +49,9 @@ Common examples:
 - competitive response,
 - organizational capability.
 
-**Branch 1 Nikita
+**Branch 1 Nikita**
 - Label: Cost and pricing advantages
-- Why it belongs:Large international platforms benefit from economies of scale, allowing them to offer lower delivery costs or free shipping. Georgian courier companies often cannot compete with these prices, leading to a loss of shipments.**
+- Why it belongs:Large international platforms benefit from economies of scale, allowing them to offer lower delivery costs or free shipping. Georgian courier companies often cannot compete with these prices, leading to a loss of shipments.
 
 **Branch 2**
 - Label: Platform-controlled logistics models
@@ -77,12 +77,14 @@ Now break each first-level branch into sub-drivers.
 
 ### Your breakdown
 
-**Branch 1 sub-drivers**
+**Branch 1 sub-drivers Nikita**
 - A: In-house logistics networks
 Foreign platforms like Temu and Ozon increasingly manage warehousing, sorting, and delivery through their own systems, reducing outsourcing to local firms.
+- C: Lower cross-border logistics costs
+Optimized international supply chains and bulk shipping reduce per-unit costs compared to smaller local operations.
 - B: Exclusive partnerships with selected carriers
 Platforms often work with a limited number of preferred international logistics partners, which blocks access for Georgian courier companies.
-- C: Control over fulfillment centers and last-mile delivery
+- D: Control over fulfillment centers and last-mile delivery
 By controlling fulfillment and delivery processes, platforms decide which logistics providers are used, limiting opportunities for local companies.
 
 **Branch 2 sub-drivers**
@@ -90,8 +92,7 @@ By controlling fulfillment and delivery processes, platforms decide which logist
 Large shipment volumes allow platforms to negotiate lower transport and handling costs than local companies.
 - B: Subsidized or free shipping models
 Platforms may absorb logistics costs to attract customers, making it difficult for Georgian couriers to compete on price.
-- C: Lower cross-border logistics costs
-Optimized international supply chains and bulk shipping reduce per-unit costs compared to smaller local operations.
+
 
 **Branch 3 sub-drivers**
 - A: Demand for faster delivery
@@ -115,7 +116,7 @@ Georgian companies have fewer direct relationships with global merchants, reduci
 
 Convert each major branch into a testable hypothesis.
 
-**Hypothesis 1** Nikita
+**Hypothesis 1 Nikita** 
 - Statement: It is cheaper & simpler to set up your own logistics in Gerogia compared to conttracting local company.
 - Why it seems plausible: E-commerce platforms that operate in a few countries have cabability of creating their own logistics netwrks in the few countries they work in, while global platforms like Temu can not create their custom newtork in every market they enter .
 
@@ -138,7 +139,7 @@ For each hypothesis, list the evidence required.
 
 | Hypothesis | What evidence is needed | Where will we look | Who owns it |
 |---|---|---|---|
-| H1 | Infomation about logististics netwrok costs | Companies' websites and reports |  Nikita| 
+| H1 | Infomation about logististics netwrok costs | Companies' websites and reports |  **Nikita**| 
 | H1 | Data on which logistics providers are used by major platforms; share of deliveries handled internally vs outsourced | Platform policies, industry reports, company announcements, interviews with logistics managers | Platforms such as Temu, Ozon, logistics partners |
 | H2 | Comparison of delivery prices (local vs platform-based shipping); cost structure of logistics services | E-commerce websites, courier company pricing lists, customer surveys | Platforms, Georgian courier companies, customers |
 | H3 | Customer satisfaction data; delivery times; availability of tracking systems | Customer reviews, surveys, company service data, app/platform features | Customers, logistics companies, e-commerce platforms |
