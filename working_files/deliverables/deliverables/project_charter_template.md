@@ -58,13 +58,13 @@ Write three versions and select one:
 - Version A: How should Georgian last-mile courier companies respond to the expansion of foreign e-commerce platforms in order to retain e-commerce shipments while managing operational and technological constraints?
 - Version B: How can Georgian parcel-delivery operators adapt to platform-led logistics disruptions to increase cross-border e-commerce volume while controlling costs and integration challenges?
 - Version C: What strategies should Georgian last-mile logistics providers implement to compete with integrated international e-commerce platforms while maintaining service quality and customer trust?
-- Selected version and reason for selection:
+- Selected version and reason for selection: Version A, because Clearly identifies Georgian last-mile courier companies and the disruption force,Can be tested with available data on shipments, integration, and pricing.Strategic decisions affect revenues, customer retention, and SME partnerships.
 
 ### Why this question matters
 
-- What happens if the client gets the answer wrong:
-- What is at stake financially:
-- What is at stake competitively:
+- What happens if the client gets the answer wrong: Misallocation of resources: investing in ineffective digital or operational initiatives,Lost market share to global platforms,Missed opportunities in emerging e-commerce segments.
+- What is at stake financially: Revenue losses from shrinking e-commerce parcel volume,Increased operational costs if inefficient strategies are implemented,Potential reduction in profitability due to lost high-margin cross-border shipments.
+- What is at stake competitively: Reduced ability to maintain relationships with SMEs and online sellers,Loss of strategic position in Georgia’s transit and e-commerce ecosystem.
 
 ---
 
