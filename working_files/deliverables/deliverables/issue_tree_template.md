@@ -49,13 +49,13 @@ Common examples:
 - competitive response,
 - organizational capability.
 
-**Branch 1**
-- Label: Platform-controlled logistics models
-- Why it belongs: Foreign marketplaces such as Temu and Wildberries increasingly use their own logistics networks or tightly controlled partners. This directly reduces the role of Georgian courier companies in the delivery chain.
-
-**Branch 2**
+**Branch 1** Nikita
 - Label: Cost and pricing advantages
 - Why it belongs:Large international platforms benefit from economies of scale, allowing them to offer lower delivery costs or free shipping. Georgian courier companies often cannot compete with these prices, leading to a loss of shipments.
+
+**Branch 2**
+- Label: Platform-controlled logistics models
+- Why it belongs: Foreign marketplaces such as Temu and Wildberries increasingly use their own logistics networks or tightly controlled partners. This directly reduces the role of Georgian courier companies in the delivery chain.
 
 **Branch 3**
 - Label: Changing customer expectations
