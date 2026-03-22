@@ -65,10 +65,10 @@ Wolt has a fast delivery system that takes about 30 minutes. (https://explore.wo
 Choose the strongest classification:
 
 - Low-end disruption
-- New-market disruption
+- New-market disruption <-- Classification
 - Sustaining innovation
 - Architectural or platform shift that does not fit Christensen cleanly
 - Too early to classify
 
 ### Justification
-Write a short paragraph explaining why.
+Traditional logistics companies are focused on large-scale, high-volume shipments. A new market has emerged that includes individuals, small businesses, restaurants, and those who need to deliver quickly and in small quantities. This is a digital platform that simplifies people's daily lives. The Delivery companies generate demand among non-consumers and day-by-day they develop and add some features. 
