@@ -49,9 +49,9 @@ Common examples:
 - competitive response,
 - organizational capability.
 
-**Branch 1** Nikita
+**Branch 1 Nikita
 - Label: Cost and pricing advantages
-- Why it belongs:Large international platforms benefit from economies of scale, allowing them to offer lower delivery costs or free shipping. Georgian courier companies often cannot compete with these prices, leading to a loss of shipments.
+- Why it belongs:Large international platforms benefit from economies of scale, allowing them to offer lower delivery costs or free shipping. Georgian courier companies often cannot compete with these prices, leading to a loss of shipments.**
 
 **Branch 2**
 - Label: Platform-controlled logistics models
