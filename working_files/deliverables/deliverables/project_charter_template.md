@@ -30,8 +30,8 @@ The charter is separate from the Team Charter. The Team Charter covers how you w
 
 Describe the industry and the focal organisation or organisation type in three sentences. Be specific. A vague client context produces vague analysis.
 
-- Industry:
-- Geographic market:
+- Industry: The logistics and parcel delivery industry in Georgia, including domestic and cross-border shipments, focusing on courier services for e-commerce.
+- Geographic market: Georgia, with particular attention to urban centers (Tbilisi, Batumi, Kutaisi) and international transit corridors connecting Europe and Asia.
 - Focal organisation type (e.g., incumbent retail bank, regional hospital network, last-mile logistics operator):
 - Why this context has meaningful disruption underway now:
 - Public data availability: what sources exist for this industry?
