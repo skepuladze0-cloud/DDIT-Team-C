@@ -135,13 +135,6 @@ For each hypothesis, list the evidence required.
 | H3 | Customer satisfaction data; delivery times; availability of tracking systems | Customer reviews, surveys, company service data, app/platform features | Customers, logistics companies, e-commerce platforms |
 | H4 | Level of technological integration (API access, automation); number of partnerships with platforms | Company websites, technical documentation, interviews, partnership announcements | Georgian courier companies, e-commerce platforms |
 
-Hypothesis	What evidence is needed	Where will we look	Who owns it
-H1	Data on which logistics providers are used by major platforms; share of deliveries handled internally vs outsourced	Platform policies, industry reports, company announcements, interviews with logistics managers	Platforms such as Temu, Ozon, logistics partners
-H2	Comparison of delivery prices (local vs platform-based shipping); cost structure of logistics services	E-commerce websites, courier company pricing lists, customer surveys	Platforms, Georgian courier companies, customers
-H3	Customer satisfaction data; delivery times; availability of tracking systems	Customer reviews, surveys, company service data, app/platform features	Customers, logistics companies, e-commerce platforms
-H4	Level of technological integration (API access, automation); number of partnerships with platforms	Company websites, technical documentation, interviews, partnership announcements	Georgian courier companies, e-commerce platforms
-
-
 ---
 
 ## Quality check
