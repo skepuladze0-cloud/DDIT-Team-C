@@ -50,11 +50,13 @@ Did incumbents have a rational reason to ignore the entrant at first?
 
 ## Part 4. Performance trajectory
 
-- Did the entrant improve over time?
-- Did it move toward the mainstream market?
-- What changed in cost, convenience, or quality?
+- Did the entrant improve over time? Yes. Transparency is and It can be controlled and tracked by the consumer. It is developing day by day and today it can be used in everything from food products to medicines and small products.
+- Did it move toward the mainstream market? Yes. Today, large companies in Georgia have established partnerships. For example, from the Wolt application, it is possible to order products from supermarkets such as Spar, Gastronome, etc. This way, these companies reduce their own expenses and it is more profitable for them.
+- What changed in cost, convenience, or quality? Costs and delivery times have been reduced. Consumers have increased trust. One of the reasons is the control they can have over the phone or through an app. Consumers can order anything and even get their medications without leaving their homes. They have access at any time, which is an advantage and leads to satisfaction.
 
-Evidence:
+Evidence: Wolt has partnerships with various supermarkets, such as Spar. (https://wolt.com/en/geo/tbilisi/search?q=Supermarket&target=venues) .
+Wolt also offers partnerships in various areas. Be it a restaurant, supermarket, flower shop or something else. (https://explore.wolt.com/en/geo/merchant/business/flower-shop?pid=google&c=GEO_Web_MERCHANT_Search_Brand_Desktop_Multiple_KA-Jan26_Beinc&af_adset=wolt_other&af_keywords=partners+wolt&keyword_match_type=e&matchtype=e&device=c&utm_adgroup=wolt_other&adgroup_id=190647164065&keyword_id=kwd-1311832463421&ad_id=791748623665&gad_campaignid=23444732299)
+Wolt has a fast delivery system that takes about 30 minutes. (https://explore.wolt.com/en/geo/merchant/business/grocery)
 
 ---
 
