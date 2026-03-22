@@ -1,4 +1,4 @@
-<img width="310" height="106" alt="image" src="https://github.com/user-attachments/assets/7bc673e6-af37-4cd7-b417-a063863c2484" /># Industry Analysis Template
+Industry Analysis Template
 
 ## Purpose
 
