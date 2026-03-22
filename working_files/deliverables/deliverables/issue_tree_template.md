@@ -20,6 +20,14 @@ How should [client or focal company] respond to [digital disruption force] in or
 **- Core Question**
 
 **Why are Georgian courier and parcel-delivery companies getting fewer e‑commerce shipments when foreign online marketplaces expand into Georgia?**
+Georgian courier and parcel-delivery companies are losing e-commerce shipments because foreign marketplaces prefer to centralize warehousing and fulfillment outside Georgia, shipping goods directly to customers, which reduces the role of local couriers.
+
+Explanation:
+Cross-border fulfillment strategy: Large platforms (e.g., Temu, Wildberries, Ozon) often stock products in regional warehouses outside Georgia. They ship directly to Georgian customers, bypassing local couriers.
+
+Operational efficiency: By controlling fulfillment abroad, marketplaces reduce delivery times, improve predictability, and manage costs centrally. Local couriers are not included in these optimized flows.
+
+Customer experience and reliability: Centralized fulfillment ensures better tracking, packaging, and service standards, which foreign marketplaces can guarantee more consistently than fragmented local delivery networks.
 
 **- Why this question matters:**
 Platform-led logistics (e.g., Ozon/Wildberries/Temu and their partners) can redirect delivery economics, service standards and data/control away from domestic carriers affecting local margins, employment, service coverage and the competitiveness of Georgian SMEs selling online. 
