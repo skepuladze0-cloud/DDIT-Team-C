@@ -21,7 +21,7 @@ Do not force every case into "disruption." Precision matters.
 
 - Challenger firm or technology: (1) Platform-based, on-demand last-mile delivery services (e.g., Wolt, Glovo, Bolt Food), (2) Digitalization of Logistic platforms for shipment
 - Initial offering: (1) Real-time visibility of where a cargo is located at a specific point in time (applies to any cargo, including cargo between countries that passes through, for example, the ports of Batumi and Poti), (2) Delivery of food, snacks, or household products by scooters, cars, or even bicycles (ordering and delivery with a digital service quickly and flexibly)
-- Initial target users: 
+- Initial target users: (1) Individuals who need fast delivery; (2) Restaurants/cafes and businesses; (3) Consumers who want to receive their desired product or cargo without leaving home and/or avoid unnecessary effort.
 - Why it seemed interesting or threatening: Using the app and ordering through it increases convenience for the user. Adding an easily transportable vehicle such as a bicycle/scooter reduces time and speeds up delivery. Transportation costs are reduced as fuel consumption is reduced.
 
 ---
