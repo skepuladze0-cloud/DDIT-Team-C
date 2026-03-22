@@ -129,7 +129,7 @@ All files submitted to the team Microsoft Teams folder by **Friday 3 April 2026 
 |---|---|---|---|
 | Research findings summary (one page per member) | v1 | Each member | `TeamX_FindingsSummary_MemberName_20260403` |
 | Hypothesis log update | v2 |  | `TeamX_HypothesisLog_v2_20260403` |
-| Competitive landscape update | v2 | | `TeamX_CompetitiveLandscape_v2_20260403` |
+| Competitive landscape update | v2 | Nikita | `TeamX_CompetitiveLandscape_v2_20260403` |
 | Industry analysis update | v2 |   | `TeamX_IndustryAnalysis_v2_20260403` |
 | Three preliminary strategic options | v1 | | `TeamX_StrategicOptions_v1_20260403` |
 | Disruption diagnostic update (if revised) | v2 | | `TeamX_DisruptionDiagnostic_v2_20260403` |
