@@ -103,11 +103,11 @@ For each non-goal, state why it is out of scope, not just that it is.
 
 | Non-Goal | Why Out of Scope |
 |---|---|
-| 1. | |
-| 2. | |
-| 3. | |
-| 4. | |
-| 5. | |
+| 1.Heavy freight and industrial logistics (e.g., bulk cargo, oil, construction materials) |The project focuses specifically on parcel delivery and e-commerce logistics. Heavy freight operates under different economics, infrastructure, and customer needs. |
+| 2.Internal operations of international platforms (e.g., Temu/Wildberries full logistics systems) |Limited access to internal proprietary data makes detailed analysis infeasible. The project focuses on observable market effects on Georgian companies. |
+| 3. Government policy and regulatory reform design|While regulation affects the industry, designing policy solutions is outside the scope. The focus is on firm-level strategic response. |
+| 4.Non-e-commerce delivery segments |The disruption is driven mainly by e-commerce growth, so other delivery segments are not central to the core question. |
+| 5.Consumer behavior outside logistics (e.g., why people choose specific products online) |The project focuses on logistics and delivery dynamics, not broader consumer purchasing decisions. |
 
 ---
 
