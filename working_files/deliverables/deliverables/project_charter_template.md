@@ -121,24 +121,24 @@ We assume [specific condition] for the purpose of this project because [basis or
 
 ### Assumption 1
 
-- Statement:
-- Basis:
-- Risk of being wrong:
-- Impact if wrong:
+- Statement: We assume that international e-commerce platforms will continue expanding in Georgia and increasing their share of parcel deliveries for the purpose of this project.
+- Basis: Recent growth trends of platforms like Temu, along with increasing e-commerce adoption in Georgia.
+- Risk of being wrong: Medium
+- Impact if wrong:If platform growth slows or reverses, the disruption pressure on Georgian courier companies may be overstated, and the urgency of strategic adaptation would decrease.
 
 ### Assumption 2
 
-- Statement:
-- Basis:
-- Risk of being wrong:
-- Impact if wrong:
+- Statement:We assume that access to e-commerce order flows is primarily controlled by digital platform integration (e.g., APIs, logistics partnerships) for the purpose of this project.
+- Basis:Platform-based business models typically centralize demand and allocate deliveries to integrated logistics partners.
+- Risk of being wrong:Medium to High
+- Impact if wrong:If integration is not the key driver of access to shipments, then focusing on technological integration may not significantly improve the position of Georgian courier companies.
 
 ### Assumption 3
 
-- Statement:
-- Basis:
-- Risk of being wrong:
-- Impact if wrong:
+- Statement:We assume that Georgian courier companies have the potential to improve their technological and operational capabilities within a reasonable timeframe for the purpose of this project.
+- Basis:Availability of existing logistics technologies, outsourcing options, and examples from similar emerging markets.
+- Risk of being wrong:Medium
+- Impact if wrong:If local firms lack the resources or capabilities to upgrade, then recommended strategies may be unrealistic or not implementable in practice.
 
 ### Additional assumptions (add as needed)
 
