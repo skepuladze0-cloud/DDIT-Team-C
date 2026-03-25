@@ -32,7 +32,7 @@ From your hypothesis log v1, identify the five hypotheses you will test before W
 | H1 | It is cheaper & simpler to set up your own logistics in Gerogia compared to conttracting local company| Infomation about logististics costs| Companies' websites| Nikita | March 29 |
 | H2 | | | | Lizi | March 22 |
 | H3 | | | |Giga| March 29 |
-| H4 | | | |Saba | March 29 |
+| H4 | Class A warehouse shortage forces fragmented facilities, raising costs and inefficiencies | Class A supply/demand; Class B/C share; rental rates; vacancy rates | TBC Capital, Galt & Taggart, BM.GE |Saba | March 29 |
 | H5 | | | | | April 2 |
 
 ### Source guidance for this sprint
