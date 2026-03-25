@@ -33,8 +33,7 @@ From your hypothesis log, identify the five hypotheses you will test this sprint
 
 | ID | Hypothesis | Evidence Needed | Primary Source | Owner | Due Date | Review Date |
 |---|---|---|---|---|---|---|
-| H1 | Shortage of Class A warehouse space forces businesses into fragmented facilities, increasing costs and creating hidden inefficiencies.
-| | | | | |
+| H1 | Shortage of Class A warehouse space forces businesses into fragmented facilities, increasing costs and creating hidden inefficiencies| Class A  supply vs demand data; percentage of Class B/C facilities; rental rates by class; regional distribution of warehouse space; vacancy rates | TBC Capital research, Galt & Taggart reports, BM.GE articles, Ministry of Economy data, real estate company reports, Kairos Logistics interview | | | |
 | H2 | | | | | | |
 | H3 | | | | | | |
 | H4 | | | | | | |
