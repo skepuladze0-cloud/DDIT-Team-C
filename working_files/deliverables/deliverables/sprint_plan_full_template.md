@@ -33,7 +33,8 @@ From your hypothesis log, identify the five hypotheses you will test this sprint
 
 | ID | Hypothesis | Evidence Needed | Primary Source | Owner | Due Date | Review Date |
 |---|---|---|---|---|---|---|
-| H1 | | | | | | |
+| H1 | Shortage of Class A warehouse space forces businesses into fragmented facilities, increasing costs and creating hidden inefficiencies.
+| | | | | |
 | H2 | | | | | | |
 | H3 | | | | | | |
 | H4 | | | | | | |
