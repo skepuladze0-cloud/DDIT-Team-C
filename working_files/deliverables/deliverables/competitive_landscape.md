@@ -2,7 +2,6 @@
 
 ## Part 1. Porter Five Forces
 
-The transportation and storage sector witnessed 5.1% GDP growth in 2023. Road cargo continues to lead in volume, with a 14% growth in the first nine months of 2023.
 
 ### Threat of new entrants
 **Barriers to entry - Moderate to High**
