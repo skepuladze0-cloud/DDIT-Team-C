@@ -38,6 +38,7 @@ How should [client] respond to [specific disruption force] in order to [strategi
 **Georgian Post must partner exclusively with Chinese e-commerce giants like Taobao and Pinduoduo to capture booming import demand before local couriers like USA2GEORGIA and Onex consolidate the market. Launching cash-on-delivery and installment payment options now will allow Gpost to differentiate their services, so they no longer have to compete on delivery price alone.**
 
 
+
 ---
 
 ## Part 2. Value Drivers
