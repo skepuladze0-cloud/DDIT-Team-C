@@ -137,7 +137,7 @@ Trustful delivery
 Customer know in live where the product is
 
 ### Emotional or social needs
-Decrease the stress or anxiety for the customer and show that the company thinks and cares for their customers. It's important to deliver in a timely manner. If the customer knows that the product wil[...]
+Decrease the stress or anxiety for the customer and show that the company thinks and cares for their customers. It's important to deliver in a timely manner. If the customer knows that the product will be delivered before 18:00 and there is 19:00 the customer becomes nervous and thinks about what happened. And also maybe the product damaged.  
 
 ### Alternative solutions
 List both direct and indirect alternatives.  
