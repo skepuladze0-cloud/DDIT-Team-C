@@ -59,7 +59,7 @@ Identify what is incomplete or weakly evidenced in the competitive landscape v1 
 |---|---|---|---|---|
 | Porter's Five Forces | More sources to back up the claims| | Nikita | |
 | Value chain | More evidence needed | Get more infomation about operaions of major shippers |Nikita| |
-| New entrants or substitutes | | | | |
+| New entrants or substitutes | | | Nikita| |
 | Jobs-to-be-done analysis | For the consumer, delivery is inconvenient, inconvenient, not transparent and reliable | interviewing and conduct surveys, analyze data |Lizi| |
 | Competitive positioning matrix | Warehouse quality missing as differentiator | Map competitors by Class A access vs B/C reliance | Saba | |
 
