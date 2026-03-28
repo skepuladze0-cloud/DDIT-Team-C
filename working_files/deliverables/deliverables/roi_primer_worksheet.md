@@ -25,21 +25,17 @@ Write two sentences only. Sentence one: what is the transformation imperative? S
 
 Connect directly to your competitive landscape and disruption diagnostic. Do not describe the industry. State the strategic consequence if the client does not act.
 
-### Format
+### Format and draft
 
 How should [client] respond to [specific disruption force] in order to [strategic objective] before [time horizon]?
 
-### Your draft
+**How should Georgian Post respond to increasing Chinese imports in order to dominate last-mile parcel delivery before the market saturation?**
 
 - Strategic rationale (two sentences):
 - Connection to disruption diagnostic:
 - Connection to competitive landscape:
 
-
-
-How should Georgian Post respond to increasing Chinese imports in order to dominate last-mile parcel delivery before the market saturation?
-
-Georgian Post must partner exclusively with Chinese e-commerce giants like Taobao and Pinduoduo to capture booming import demand before local couriers like USA2GEORGIA and Onex consolidate the market. Launching cash-on-delivery and installment payment options now will allow Gpost to differentiate their services, so they no longer have to compete on delivery price alone.
+**Georgian Post must partner exclusively with Chinese e-commerce giants like Taobao and Pinduoduo to capture booming import demand before local couriers like USA2GEORGIA and Onex consolidate the market. Launching cash-on-delivery and installment payment options now will allow Gpost to differentiate their services, so they no longer have to compete on delivery price alone.**
 
 
 ---
