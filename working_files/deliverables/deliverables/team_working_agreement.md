@@ -29,9 +29,9 @@ From your hypothesis log v1, identify the five hypotheses you will test before W
 
 | ID | Hypothesis Statement | Evidence Needed | Primary Source | Owner | Due Date |
 |---|---|---|---|---|---|
-| H1 | It is cheaper & simpler to set up your own logistics in Gerogia compared to conttracting local company| Infomation about logististics costs| Companies' websites| Nikita | March 29 |
+| H1 | It is cheaper & simpler to set up your own logistics in Gerogia compared to conttracting local company| Infomation about logististics costs| Companies' websites| Givi | March 29 |
 | H2 | Platform-based courier companies, unlike traditional logistics companies, offer customers fast, transparent and convenient service | Traditional Logistic Courier VS platform-based courier. Customer satisfaction |Industry and company reports. Reviews (customer, websites and application) | Lizi | March 22 |
-| H3 | | | |Giga| March 29 |
+| H3 | | | || March 29 |
 | H4 | Class A warehouse shortage forces fragmented facilities, raising costs and inefficiencies | Class A supply/demand; Class B/C share; rental rates; vacancy rates | TBC Capital, Galt & Taggart, BM.GE |Saba | March 29 |
 | H5 | | | | | April 2 |
 
@@ -57,9 +57,9 @@ Identify what is incomplete or weakly evidenced in the competitive landscape v1 
 
 | Section | Gap or Weakness | Research Action | Owner | Due Date |
 |---|---|---|---|---|
-| Porter's Five Forces | More sources to back up the claims| | Nikita | |
-| Value chain | More evidence needed | Get more infomation about operaions of major shippers |Nikita| |
-| New entrants or substitutes | | | Nikita| |
+| Porter's Five Forces | More sources to back up the claims| | Givi | |
+| Value chain | More evidence needed | Get more infomation about operaions of major shippers |Givi| |
+| New entrants or substitutes | | | Saba| |
 | Jobs-to-be-done analysis | For the consumer, delivery is inconvenient, inconvenient, not transparent and reliable | interviewing and conduct surveys, analyze data |Lizi| |
 | Competitive positioning matrix | Warehouse quality missing as differentiator | Map competitors by Class A access vs B/C reliance | Saba | |
 
@@ -70,7 +70,7 @@ Identify what is incomplete or weakly evidenced in the competitive landscape v1 
 | Task | Scope and Output | Owner | Due Date |
 |---|---|---|---|
 | 1. Market size and growth data | Named source with year; update industry analysis template Part 2 | | March 22 |
-| 2. Customer behaviour shifts | Two to three evidence points on digital adoption, friction, or expectation change | Nikita | March 22 |
+| 2. Customer behaviour shifts | Two to three evidence points on digital adoption, friction, or expectation change | Givi | March 22 |
 | 3. New entrant profiles | One-page profile per major new entrant or substitute identified in Week 1 | Nikita | March 29 | 
 | 4. Incumbent strategic moves | Recent moves by incumbent firms: investments, partnerships, product launches, layoffs | Lizi | March 29 |
 | 5. AI adoption benchmarks | Sector-specific AI adoption rate, investment level, or productivity impact data | | April 2 |
