@@ -29,16 +29,16 @@ Minimum two meetings per week for Weeks 1 to 4. Minimum three meetings per week 
 
 | # | Section | Primary owner | Reviewer | Draft due |
 |---|---|---|---|---|
-| 1 | Executive summary |  |  | May 18 |
-| 2 | Industry and competitive context |  |  | April 19 |
-| 3 | AI landscape and opportunity |  |  | April 19 |
-| 4 | Platform dynamics |  |  | April 19 |
-| 5 | Strategic options evaluation |  |  | April 26 |
-| 6 | Business model detail |  |  | April 26 |
-| 7 | Transformation roadmap |  |  | May 3 |
-| 8 | ROI and financial case |  |  | May 3 |
-| 9 | Risk assessment |  |  | May 10 |
-| 10 | Implementation logic |  |  | May 10 |
+| 1 | Executive summary | Saba | Lizi | May 18 |
+| 2 | Industry and competitive context | Lizi | Giga | April 19 |
+| 3 | AI landscape and opportunity | Lizi | Saba | April 19 |
+| 4 | Platform dynamics | Giga | Saba | April 19 |
+| 5 | Strategic options evaluation | Lizi | Giga | April 26 |
+| 6 | Business model detail | Saba | Giga | April 26 |
+| 7 | Transformation roadmap | Saba | Lizi | May 3 |
+| 8 | ROI and financial case | Giga | Giga | May 3 |
+| 9 | Risk assessment | Lizi | Saba | May 10 |
+| 10 | Implementation logic | Giga | Lizi | May 10 |
 
 ---
 
@@ -46,18 +46,18 @@ Minimum two meetings per week for Weeks 1 to 4. Minimum three meetings per week 
 
 | # | Date | Time | Agenda | Deliverable |
 |---|---|---|---|---|
-| 1 |  |  | Sprint planning and section kickoff |  |
-| 2 |  |  | Research findings review |  |
-| 3 |  |  | Sections 2, 3, 4 first draft review |  |
-| 4 |  |  | Sections 5, 6 first draft review |  |
-| 5 |  |  | Full deck assembly and logic check |  |
-| 6 |  |  | ROI model review and challenge |  |
-| 7 |  |  | Sections 7, 8 draft review |  |
-| 8 |  |  | Full deck second review |  |
-| 9 |  |  | Internal dry run (25 min + 10 min Q&A) |  |
-| 10 |  |  | Dry run feedback incorporation |  |
-| 11 |  |  | Final polish and supporting document |  |
-| 12 |  |  | Pre-submission check | Final submission |
+| 1 | April 7 | 21:00 | Sprint planning and section kickoff |  |
+| 2 | ApriL 13 | 21:00 | Research findings review |  |
+| 3 | April 17 | 21:00 | Sections 2, 3, 4 first draft review |  |
+| 4 | April 20 | 21:00 | Sections 5, 6 first draft review |  |
+| 5 | April 25 | 21:00 | Full deck assembly and logic check |  |
+| 6 | May 2 | 21:00 | ROI model review and challenge |  |
+| 7 | May 5 | 21:00 | Sections 7, 8 draft review |  |
+| 8 | May 10 | 21:00 | Full deck second review |  |
+| 9 | May 14 | 21:00 | Internal dry run (25 min + 10 min Q&A) |  |
+| 10 | May 16 | 21:00 | Dry run feedback incorporation |  |
+| 11 | May 19 | 21:00 | Final polish and supporting document |  |
+| 12 | May 21 | 21:00 | Pre-submission check | Final submission |
 
 ---
 
