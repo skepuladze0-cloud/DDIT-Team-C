@@ -69,33 +69,47 @@ Profit per customer attrackted thourgh partnership.
 
 How does the transformation reduce operating cost through automation, process improvement, or asset reduction?
 
-- Mechanism:
-- Scope of impact (which process, function, or cost line):
-- Order of magnitude estimate:
-- Data needed to quantify:
-- Evidence collected so far:
+- Mechanism: By investing in route optimization tools and partial automation of sorting processes, Georgian Post can reduce fuel consumption, manual labor requirements, and delivery time per parcel, which lowers overall cost per shipment.
+
+- Scope of impact (which process, function, or cost line): Last-mile delivery operations and sorting centers
+
+- Order of magnitude estimate: Moderate (estimated 10–20% reduction in operational costs over time)
+
+- Data needed to quantify: Current cost per delivery, fuel expenses, labor costs, and delivery time per route
+
+- Evidence collected so far: Industry trends show increasing adoption of route optimization and automation tools in logistics to improve efficiency
+
 
 ### 2.3 Risk Reduction
 
 How does the transformation reduce the probability or impact of a material risk?
 
-- Risk being mitigated:
-- Mechanism:
-- Scope of impact:
-- Order of magnitude estimate:
-- Data needed to quantify:
-- Evidence collected so far:
+- Risk being mitigated: Loss of market share to international logistics providers
+ 
+- Mechanism: Improving service reliability and delivery transparency reduces customer switching to competitors
+
+- Scope of impact: E-commerce delivery segment
+
+- Order of magnitude estimate: Medium (helps stabilize revenue rather than directly increase it)
+
+- Data needed to quantify: Customer retention rates, complaint rates, delivery delays
+
+- Evidence collected so far: Customers increasingly prioritize reliability and tracking visibility when choosing logistics providers
+
 
 ### 2.4 Strategic Optionality
 
 How does the transformation create the capability to pursue future opportunities that are currently not accessible?
 
-- Future opportunity enabled:
-- Why this capability is not accessible today:
-- Mechanism:
-- Order of magnitude estimate (option value):
-- Evidence collected so far:
+- Future opportunity enabled: Expansion into integrated e-commerce logistics services (end-to-end solutions)
 
+- Why this capability is not accessible today: Limited digital integration and fragmented service offerings
+
+- Mechanism: Developing digital systems and partnerships enables Georgian Post to offer full logistics solutions rather than just delivery
+
+- Order of magnitude estimate (option value): High long-term potential
+
+- Evidence collected so far: Global trend toward integrated logistics solutions among leading providers
 ---
 
 ## Part 3. Cost Drivers
@@ -114,10 +128,9 @@ Estimate cost buckets for each category. Use industry benchmarks where available
 
 ### Cost driver notes
 
-- Most uncertain cost item:
-- Source for benchmark estimates:
-- What would cause cost to exceed the high end of the range:
-
+- Most uncertain cost item: Technology investment
+- Source for benchmark estimates: Industry reports and comparable logistics projects
+- What would cause cost to exceed the high end of the range: Implementation delays or underestimation of system complexity
 ---
 
 ## Part 4. Key Assumptions
