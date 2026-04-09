@@ -17,8 +17,8 @@ AI augmentation of existing processes. High readiness, high near-term ROI.
 | # | Initiative name | Description | Investment estimate | Funding source | Link to AI Opportunity Map |
 |---|---|---|---|---|---|
 | H1-1 | AI Route Optimization Engine  | Deploy machine-learning routing software across Georgian Post's top 5 highest-volume delivery corridors (Tbilisi, Kutaisi, Batumi, Rustavi, Gori). Algorithm ingests live traffic, parcel density, and driver availability to generate daily optimized route plans, replacing manual dispatcher scheduling. Target: 12–15% reduction in cost-per-delivery within 9 months. | GEL 480,000 (software licensing + integration + dispatcher retraining) | Operational budget reallocation from fuel and overtime savings | Deploy Now — Route Optimization (High Value / High Readiness) |
-| H1-2 |  |  |  |  |  |
-| H1-3 |  |  |  |  |  |
+| H1-2 | AI Customer Service Chatbot | Launch a Georgian-language conversational AI chatbot on the Georgian Post website and mobile app. Handles tier-1 queries: parcel tracking, delivery status, rescheduling, complaint logging, and COD confirmation. Deflects 60–65% of inbound call centre volume, freeing agents for complex cases | GEL 160,000 (chatbot platform license + Georgian NLP training + integration with tracking system) | Operational budget; partially offset by call centre headcount redeployment | Deploy Now — Customer Service Automation (High Value / High Readiness) |
+| H1-3 | Seller API and Digital Onboarding Portal | Build and launch a public Seller Integration API enabling e-commerce sellers to generate labels, book pick-ups, receive tracking webhooks, and access delivery analytics programmatically. Zero-fee onboarding in Year 1 to accelerate supply-side critical mass. Target: 200 active sellers within 6 months of launch | GEL 320,000 (API development + seller dashboard UI + documentation + onboarding support) | Capital budget — platform foundation investment; revenue-generating from Month 7 via volume uplift | Deploy Now — Digital Seller Integration (High Value / High Readiness) |
 
 
 ---
