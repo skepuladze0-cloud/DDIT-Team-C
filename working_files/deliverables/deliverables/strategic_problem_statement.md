@@ -41,6 +41,7 @@ How should Georgian courier companies respond to the expansion of foreign e‑co
 List one or two nearby questions that look related but are not the central question.
 
 1.How can Georgian courier companies reduce internal delivery costs? 
+
 2. How can Georgian e-commerce sellers choose the fastest courier?
 
 This helps keep scope clean.
