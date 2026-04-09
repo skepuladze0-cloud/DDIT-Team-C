@@ -9,9 +9,9 @@ This worksheet aims to clearly define the strategic challenges faced by Georgian
 ## Part 1. Context
 
 - Industry:Logistic
-- Focal company or client:
-- Primary disruption force:
-- Why this matters now:
+- Focal company or client:Georgian last-mile courier and parcel-delivery companies serving domestic and cross-border e-commerce shipments
+- Primary disruption force:Expansion of foreign e-commerce platforms that centralize warehousing and fulfillment, bypassing local couriers
+- Why this matters now:These platforms are rapidly capturing e-commerce shipments in Georgia, reducing revenue, limiting growth opportunities, and shifting control over customer data, delivery standards, and pricing away from local logistics providers. This creates immediate strategic and financial pressure on Georgian courier companies.
 
 ---
 
