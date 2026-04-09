@@ -2,7 +2,7 @@
 
 ## Purpose
 
-Apply platform theory to the client's specific competitive situation and make a strategic recommendation: build, join, defend, or acquire.
+To analyze how Georgian courier companies can leverage platform-based strategies to compete with foreign e‑commerce marketplaces, retain and grow e‑commerce shipment volume, and improve operational efficiency while connecting local couriers, sellers, and platforms in a scalable, digitally integrated ecosystem.
 
 ## Output
 Platform Strategy Canvas v1
