@@ -16,7 +16,7 @@ Update this log after each research session or team meeting. Treat it as a livin
 
 | ID | Hypothesis | Evidence needed | Evidence collected | Status | Revision notes | Owner |
 |---|---|---|---|---|---|---|
-| H1 | It is cheaper & simpler to set up your own logistics in Gerogia compared to conttracting local company |  |  | Active |  |Nikita |
+| H1 | It is cheaper & simpler to set up your own logistics in Gerogia compared to conttracting local company |  |  | Active |  |Givi |
 | H2 | Georgian courier companies are losing e-commerce shipments because they lack integration with global e-commerce platforms, limiting their access to order flows |  |  | Active |  | Givi |
 | H3 | Platform-based courier companies, unlike traditional logistics companies, offer customers fast, transparent and convenient service |  |  | Active |  | Lizi |
 | H4 | Severe shortage of Class A warehouse space in Georgia forces businesses into fragmented, low-quality facilities that increase costs and reduce efficiency |  |  | Active |  | Saba |
