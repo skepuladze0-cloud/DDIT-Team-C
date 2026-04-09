@@ -14,16 +14,15 @@ AI assistants are permitted as productivity tools. They are not permitted as sub
 
 **Team name:** Team C
 
-**Deliverable name and version:** ati tool policy v1
+**Deliverable name and version:** 
 
 **Date submitted:**
 
 **Team members signing this appendix:**
 
-1. Nikita Karpovi Chkhirodze
-2. Saba Kepuladze
-3. Lizi Mshvenieradze
-4. Givi Jalagonia
+1. Saba Kepuladze
+2. Lizi Mshvenieradze
+3. Givi Jalagonia
 
 ---
 
@@ -101,13 +100,12 @@ By signing below, all team members confirm:
 
 **Signatures (print names):**
 
-Member 1: Nikita Karpovi Chkhirodze
+Member 1: Giga Jalagonia
 
 Member 2: Saba Kepuladze
 
 Member 3: Lizi Mshvenieradze
 
-Member 4: ______________________
 
 ---
 
