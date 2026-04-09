@@ -105,12 +105,12 @@ Estimate cost buckets for each category. Use industry benchmarks where available
 | Cost Category | Estimate Range | Basis for Estimate | One-Time or Ongoing |
 |---|---|---|---|
 | Technology investment | Medium–High | Investment in tracking systems, software, automation tools | One-time + ongoing maintenance |
-| Implementation (consulting, PM, testing, deployment) | | | |
-| People and change management | | | |
-| Governance and compliance | | | |
-| Opportunity cost (management attention diverted) | | | |
-| Risk buffer (recommended: 20–30% of total) | | | |
-| **Total estimated cost range** | | | |
+| Implementation (consulting, PM, testing, deployment) | Medium | Based on similar logistics transformation projects |  |
+| People and change management | Medium | Training employees and adapting processes | One-time + some ongoing |
+| Governance and compliance | Low–Medium | Regulatory and operational adjustments | Ongoing |
+| Opportunity cost (management attention diverted) | Medium | Management time diverted from other initiatives | Ongoing |
+| Risk buffer (recommended: 20–30% of total) | Medium | Standard buffer for uncertainty | One-time |
+| **Total estimated cost range** | Medium–High | Aggregated estimate | |
 
 ### Cost driver notes
 
