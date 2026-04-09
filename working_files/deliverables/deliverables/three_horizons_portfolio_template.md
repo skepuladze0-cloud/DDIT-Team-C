@@ -20,6 +20,8 @@ AI augmentation of existing processes. High readiness, high near-term ROI.
 | H1-2 |  |  |  |  |  |
 | H1-3 |  |  |  |  |  |
 
+| H1-1 | AI Route Optimization Engine | Deploy machine-learning routing software across Georgian Post's top 5 highest-volume delivery corridors (Tbilisi, Kutaisi, Batumi, Rustavi, Gori). Algorithm ingests live traffic, parcel density, and driver availability to generate daily optimized route plans, replacing manual dispatcher scheduling. Target: 12–15% reduction in cost-per-delivery within 9 months. | GEL 480,000 (software licensing + integration + dispatcher retraining) | Operational budget reallocation from fuel and overtime savings | Deploy Now — Route Optimization (High Value / High Readiness) |
+
 ---
 
 ## Horizon 2: Nurture and Build (12 to 36 months)
