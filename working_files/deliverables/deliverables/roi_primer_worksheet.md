@@ -37,8 +37,6 @@ How should [client] respond to [specific disruption force] in order to [strategi
 
 **Georgian Post must partner exclusively with Chinese e-commerce giants like Taobao and Pinduoduo to capture booming import demand before local couriers like USA2GEORGIA and Onex consolidate the market. Launching cash-on-delivery and installment payment options now will allow Gpost to differentiate their services, so they no longer have to compete on delivery price alone.**
 
-
-
 ---
 
 ## Part 2. Value Drivers
@@ -143,21 +141,21 @@ We assume [specific condition] because [basis or evidence]. If this assumption i
 
 ### Assumption 1 (most important)
 
-- Statement:
-- Basis:
-- Impact if wrong by 20%:
+- Statement: We assume that cross-border e-commerce shipments to Georgia will continue to grow over the next few years
+- Basis: Recent trends in trade and increasing use of international online marketplaces
+- Impact if wrong by 20%: Revenue growth decreases and payback period becomes longer
 
 ### Assumption 2
 
-- Statement:
-- Basis:
-- Impact if wrong by 20%:
+- Statement: We assume that customers will continue to prioritize faster delivery and real-time tracking
+- Basis: Observed changes in customer expectations in logistics services
+- Impact if wrong by 20%: Service improvements generate less competitive advantage
 
 ### Assumption 3
 
-- Statement:
-- Basis:
-- Impact if wrong by 20%:
+- Statement: We assume that operational improvements can be implemented without major delays
+- Basis: Existing infrastructure and ongoing modernization efforts
+- Impact if wrong by 20%: Costs increase and ROI timeline is delayed
 
 ### Additional assumptions (optional)
 
@@ -172,30 +170,30 @@ You are not modelling precise numbers yet. You are identifying the scenario stru
 
 ### 5.1 Base Case
 
-- One-sentence description of the most likely outcome:
-- Key assumption value used (e.g., AI adoption at industry median):
-- Rough payback period estimate:
-- Why this is the most defensible scenario:
+- One-sentence description of the most likely outcome: gradual improvement in efficiency and moderate growth in parcel volumes
+- Key assumption value used (e.g., AI adoption at industry median): steady growth in e-commerce demand
+- Rough payback period estimate: 3–4 years
+- Why this is the most defensible scenario: realistic scenario with moderate execution success
 
 ### 5.2 Upside Case
 
-- One-sentence description of the best realistic outcome:
-- Key assumption value used (e.g., AI adoption at top quartile):
-- Rough payback period estimate:
-- What has to go right for this scenario to materialise:
+- One-sentence description of the best realistic outcome: strong increase in shipments and improved market position
+- Key assumption value used (e.g., AI adoption at top quartile): faster adoption and successful partnerships
+- Rough payback period estimate: 2–3 years
+- What has to go right for this scenario to materialise: smooth implementation and strong demand growth
 
 ### 5.3 Downside Case
 
-- One-sentence description of the outcome if the most important risk materialises:
-- Key assumption value used (e.g., AI adoption at bottom quartile; implementation delay of six months):
-- Rough payback period estimate:
-- Does the client survive this scenario? How?
+- One-sentence description of the outcome if the most important risk materialises: slow improvements and continued loss of shipments
+- Key assumption value used (e.g., AI adoption at bottom quartile; implementation delay of six months): delays in implementation and weaker demand growth
+- Rough payback period estimate: 5+ years
+- Does the client survive this scenario? How? yes, but with reduced profitability
 
 ### 5.4 Key differentiating assumption
 
-- The single assumption that most changes the outcome across scenarios:
-- Why this assumption is the most uncertain:
-- What research would reduce this uncertainty:
+- The single assumption that most changes the outcome across scenarios: Speed and effectiveness of implementation
+- Why this assumption is the most uncertain: Most uncertain because it depends on execution capability
+- What research would reduce this uncertainty: Can be reduced through pilot projects and benchmarking
 
 ---
 
@@ -205,9 +203,9 @@ List the top three things you cannot estimate without more research. These drive
 
 | # | Open Question | Data or Research Needed | Owner | Due Date |
 |---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
+| 1 | Can be reduced through pilot projects and benchmarking | Market data and import statistics | Lizi Mshvenieradze | |
+| 2 | What is the current cost per delivery for Georgian Post? | Internal financial data | Saba Kepuladze | |
+| 3 | How do competitors perform in delivery speed and pricing? | Benchmarking and competitor analysis | Giga Jalagonia| |
 
 ---
 
