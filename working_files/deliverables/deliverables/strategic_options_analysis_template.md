@@ -52,16 +52,16 @@ Risks include dependence on external partners, potential misalignment of incenti
 
 ## Evaluation matrix
 
-| Criterion | Option 1 | Option 2 | Option 3 |
+| Criterion | Option 1: Build Platform | Option 2: Join Platforms  | Option 3: Partner Regionally |
 |---|---|---|---|
-| Strategic fit (H/M/L) |  |  |  |
-| Justification |  |  |  |
-| Financial return (H/M/L) |  |  |  |
-| Justification |  |  |  |
-| Implementation feasibility (H/M/L) |  |  |  |
-| Justification |  |  |  |
-| Competitive defensibility (H/M/L) |  |  |  |
-| Justification |  |  |  |
+| Strategic fit (H/M/L) | High | Medium |  Medium |
+| Justification | Strong alignment with long-term goal to control order flows and become a platform operator  | Fits short-term survival but limits strategic control | Expands capabilities but not directly solving platform disintermediation  |
+| Financial return (H/M/L) | High | Medium | Medium |
+| Justification | High upside from scale, platform fees, and efficiency gains if successful |Stable revenue from volume but lower margins due to platform dominance  | Additional revenue streams from cross-border services, but slower growth |
+| Implementation feasibility (H/M/L) | Low–Medium | High | Medium |
+| Justification |Requires high investment, coordination, and tech capabilities  | Easy to implement using existing infrastructure and integrations | Requires partnerships and coordination but less complex than building a platform |
+| Competitive defensibility (H/M/L) | High  | Low | Medium |
+| Justification | Strong defensibility through network effects and control over ecosystem | Weak defensibility due to dependency on dominant platforms  | Moderate defensibility through partnerships, but not fully protected from competition  |
 
 ---
 
