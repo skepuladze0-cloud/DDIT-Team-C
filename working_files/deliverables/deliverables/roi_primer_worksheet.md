@@ -11,8 +11,8 @@ A business case with one scenario is not a business case. It is a wish list. A b
 ## Team Information
 
 - Team name: Team C
-- Industry context:
-- Members:
+- Industry context: Logistics and Transportation Industry in Georgia
+- Members: Lizi Mshvenieradze, Saba Kepuladze, Giga Jalagonia
 - Date completed:
 - Version:
 
