@@ -104,7 +104,7 @@ Estimate cost buckets for each category. Use industry benchmarks where available
 
 | Cost Category | Estimate Range | Basis for Estimate | One-Time or Ongoing |
 |---|---|---|---|
-| Technology investment | | | |
+| Technology investment | Medium–High | Investment in tracking systems, software, automation tools | One-time + ongoing maintenance |
 | Implementation (consulting, PM, testing, deployment) | | | |
 | People and change management | | | |
 | Governance and compliance | | | |
