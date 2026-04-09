@@ -6,11 +6,18 @@ To analyze how Georgian courier companies can leverage platform-based strategies
 
 ## Output
 Value Unit – what core product/service or transaction the platform enables.
+
+
 Producer Side – who provides the product/service and why they join.
+
 Consumer Side – who consumes the product/service and what they gain.
+
 Network Effect Mechanism – how value increases as more participants join.
+
 Client Position Assessment – current role of the client (producer, consumer, or potential platform operator) and leverage.
+
 Strategic Recommendation – specific build, join, defend, or acquire strategy with justification.
+
 First Move Action Plan – concrete action in the next 6 months with owner and success metrics.
 
 ## Time
